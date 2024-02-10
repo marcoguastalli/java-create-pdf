@@ -5,9 +5,7 @@ import static robots.utils.LoadResourceUtils.loadResourceAsString;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-/**
- * Main class to create a PDF
- */
+/** Main class to create a PDF */
 public class CreatePdfRun {
 
     static final String XML_FILE = "just.an.xml";

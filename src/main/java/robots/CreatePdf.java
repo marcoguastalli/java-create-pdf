@@ -11,9 +11,7 @@ import exception.CreatePdfException;
 import lombok.Getter;
 import lombok.NonNull;
 
-/**
- * Create a PDF in the constructor, don't you like it? Do a PR :-P
- */
+/** Create a PDF in the constructor, don't you like it? Do a PR :-P */
 @Getter
 public class CreatePdf {
 
