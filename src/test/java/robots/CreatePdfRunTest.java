@@ -8,7 +8,7 @@ class CreatePdfRunTest {
 
     @Test
     void testCreatePdf() {
-        CreatePdf createPdf = new CreatePdf();
+        CreatePdf createPdf = new CreatePdf("TODO", "TODO");
         assertNotNull(createPdf);
     }
 
