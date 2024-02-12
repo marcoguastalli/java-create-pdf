@@ -94,8 +94,8 @@
         <!-- Flying Saucer is a CSS 2.1 renderer written in Java. This artifact supports PDF output. (OpenPDF) https://github.com/flyingsaucerproject/flyingsaucer -->
         <dependency>
             <groupId>org.xhtmlrenderer</groupId>
-            <artifactId>flying-saucer-pdf-openpdf</artifactId>
-            <version>9.4.0</version>
+            <artifactId>flying-saucer-pdf</artifactId>
+            <version>9.5.1</version>
         </dependency>
         <!-- Log https://github.com/apache/logging-log4j2/releases -->
         <dependency>
